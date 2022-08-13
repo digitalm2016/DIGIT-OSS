@@ -19,6 +19,7 @@
 		<java.version>1.8</java.version>
 		<commons-lang-version>2.6</commons-lang-version>
 		<maven.version>3.3.9</maven.version>
+		<deploy.type>war</deploy.type>
 	</properties>
 
 	<dependencies>
